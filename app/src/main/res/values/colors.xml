@@ -7,4 +7,22 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- CityReport Theme Colors -->
+    <color name="primary_blue">#1976D2</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="accent_blue">#42A5F5</color>
+    <color name="bg_light">#F5F7FA</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="divider">#E0E0E0</color>
+
+    <!-- Status Colors -->
+    <color name="status_pendiente_text">#E65100</color>
+    <color name="status_pendiente_bg">#FFE0B2</color>
+    <color name="status_proceso_text">#0D47A1</color>
+    <color name="status_proceso_bg">#BBDEFB</color>
+    <color name="status_resuelto_text">#1B5E20</color>
+    <color name="status_resuelto_bg">#C8E6C9</color>
 </resources>

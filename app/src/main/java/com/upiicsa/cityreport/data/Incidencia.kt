@@ -1,4 +1,4 @@
-package com.upiicsa.hellocityreport.data
+package com.upiicsa.cityreport.data
 
 data class Incidencia(
     val titulo: String,
